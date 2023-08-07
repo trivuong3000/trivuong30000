@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member>
+    <NickName>trivuong3000</NickName>
+    <Email>trivuong3000@gmail.com</Email>
+    <Id>122908</Id>
+    <Password>admin2802</Password>
+  </Member>
+ 
+</ArrayOfMember>
